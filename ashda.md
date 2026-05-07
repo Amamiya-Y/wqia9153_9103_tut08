@@ -26,7 +26,7 @@ _HELLO_
 
 
 
-![the Mona Lisa](C:/Users/23084/Desktop/STUDY/Master/IDEA9103/week9/readmeimage/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
+![the Mona Lisa](assets\Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
 
 ```
 function helloWorld() {
@@ -35,3 +35,4 @@ console.log("Hello, world!");
 ```
 
 > hello
+ajkshdjkashfsakj
